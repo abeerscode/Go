@@ -18,4 +18,7 @@ func main(){
 	arr3 := [4] string {"Md.","Abeer", "Hasan", "Ratul"}
 	fmt.Printf("Array 3 = %q\n", arr3)
 
+	arr := [3]string{"DOG", "COW", "CAT"}
+	fmt.Printf("Animals : %v\n", arr)
+
 }
